@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    width: 700px;
+    margin: auto;
+}
+
+article {
+    border: 5px solid #fff;
+}
